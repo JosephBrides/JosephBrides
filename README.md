@@ -25,15 +25,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
  <br />
 
-<b>Offensive Security Labs
+<b>
  
-<b>Defensive Security Labs</b>
+<b>IAM Projects</b>
 
-
--[Creating a Live SOC / Honey Net in Azure]
-
-
--Integrating TPOT and ELK Stack for Blue Team Operations
 
  <br />
 
