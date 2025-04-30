@@ -28,8 +28,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <b>
  
 <b>IAM Projects</b>
--# Over-Privileged Access Remediation and Access Review Setup
-https://github.com/JosephBrides/IAM-Projects-.git
+- [Over-Privileged Access Remediation and Access Review Setup] (https://github.com/JosephBrides/Over-Privileged-Access-Remediation.git)
+
 
  <br />
 
